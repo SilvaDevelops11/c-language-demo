@@ -10,6 +10,6 @@ int main() {
     printf("what is your age? so I can tell you how old you will be in 10 years\n");
     scanf("%s", age);
     int age_int = atoi(age);
-    printf("In 10 years you will be %d years old\n", age_int + 10);
+    printf("%s, In 10 years you will be %d years old\n", name, age_int + 10);
     return 0;
 }
