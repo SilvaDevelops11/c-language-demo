@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/alvisgordon/Documents/GitHub/c-language-demo/whatismyname'
+relocations:     []
+...
